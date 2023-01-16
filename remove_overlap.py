@@ -1,3 +1,5 @@
+#python remove_overlap.py DDGun-Ptmul PoPMuSiC-S2648 30
+
 import os, sys
 import pandas as pd
 import numpy as np
@@ -22,23 +24,25 @@ def RemoveOverlap(dataset1, dataset2, pident=25):
     data = blast[(blast['dataset2'] == dataset2) & (blast['dataset1'] == dataset1)]
 
     overlap = data.sort_values("pident")[::-1]
-    overlap = overlap[overlap['pident'] > int(pident)].loc[:, ['pdbid1', 'pdbid2']]
-    # *save overlap?*
-    overlaping_proteins = overlap.pdbid1.unique()
-    
-    dataset1_data_no_overlap = dataset1_data[~dataset1_data['id'].isin(overlaping_proteins)]
-    file_name = '__'.join([dataset1, dataset2, str(pident)])
-    dataset1_data_no_overlap.drop(columns='id').to_csv(os.path.join(path, file_name+'.tsv'), sep='\t', index=False)
+    overlap = overlap[overlap['pident'] > int(pident)].loc[:, ['pdbid1', 'pdbid2', 'pident']]
+    overlapping_proteins = overlap.pdbid1.unique()
 
-    n_before = len(dataset1_data)
-    n_after = len(dataset1_data_no_overlap)
-    print(f'Percent of overlapping data: {n_after/n_before:.1%}')
+    if len(overlapping_proteins) == 0:
+        print(f'No overlap at {pident}% cutoff.')
+    else:
+        overlap.to_csv('overlapping_proteins.tsv', sep='\t', index=False, header=False)
+        overlapping_proteins = overlap.pdbid1.unique()
 
-    #return dataset1_data_no_overlap
-	
-#dataset1 = 'DDGun-Ptmul'
-#dataset2 = 'PoPMuSiC-S2648'
-#pident = 25
+        dataset1_data_no_overlap = dataset1_data[~dataset1_data['id'].isin(overlapping_proteins)]
+        if len(dataset1_data_no_overlap) == 0:
+            print(f'All data overlap at {pident}% cutoff.')
+        else:
+            file_name = '__'.join([dataset1, dataset2, str(pident)])
+            dataset1_data_no_overlap.drop(columns='id').to_csv(os.path.join(path, file_name+'.tsv'), sep='\t', index=False)
+
+            n_before = len(dataset1_data)
+            n_after = len(dataset1_data_no_overlap)
+            print(f'Percent of overlapping data: {n_after/n_before:.1%}')
 
 dataset1 = str(sys.argv[1])
 dataset2 = str(sys.argv[2])
