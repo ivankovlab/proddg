@@ -4,7 +4,7 @@ import os, sys
 import pandas as pd
 import numpy as np
 
-path = '~/Documents/WRK/datasets_2023.01.01' # set the path here
+path = '' #'~/Documents/WRK/datasets_2023.01.01' # set the path here
 blast_file = os.path.join(path, 'blast.tsv')
 blast = pd.read_table(blast_file)
 
