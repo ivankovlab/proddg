@@ -1,0 +1,915 @@
+pdb	mutation	ddG	chain	uniprot	organism	protein
+1A23	C30S/C33S	2.0	A	P0AEG4	Escherichia coli (strain K12)	Thiol:disulfide interchange protein DsbA
+1A5E	W15D/L37S/L121R	-1.42	A	P42771	Homo sapiens (Human)	Cyclin-dependent kinase inhibitor 2A
+1ACB	V47A/V55A	2.867	I	P01051	Hirudo medicinalis (Medicinal leech)	Eglin C
+1ACB	L20A/V47A	1.97	I	P01051	Hirudo medicinalis (Medicinal leech)	Eglin C
+1ACB	V7A/V11A	2.519	I	P01051	Hirudo medicinalis (Medicinal leech)	Eglin C
+1AG2	D55N/M6V	1.91	A	P04925	Mus musculus (Mouse)	Major prion protein
+1AG2	D55N/M6N	1.72	A	P04925	Mus musculus (Mouse)	Major prion protein
+1AJ3	W13Y/S65L	0.575	A	P07751	Gallus gallus (Chicken)	Spectrin alpha chain, non-erythrocytic 1
+1AM7	H30N/H133N	-1.8	A	P03706	Escherichia phage lambda (Bacteriophage lambda)	Endolysin
+1AMQ	K63M/E253Q	4.95	A	P00509	Escherichia coli (strain K12)	Aspartate aminotransferase
+1AMQ	K63E/E253K	6.6	A	P00509	Escherichia coli (strain K12)	Aspartate aminotransferase
+1AMQ	C77A/C180A/C181A/C258A/C389A	1.0	A	P00509	Escherichia coli (strain K12)	Aspartate aminotransferase
+1AQH	Q58C/A99C	-1.87	A	P29957	Pseudoalteromonas haloplanktis (Alteromonas haloplanktis)	Alpha-amylase
+1ARR	L12R/R13T	1.8	A	P03050	Salmonella phage P22 (Bacteriophage P22)	Transcriptional repressor arc
+1ARR	Q9R/F10L/N11I/R13K/R16G	-0.4	A	P03050	Salmonella phage P22 (Bacteriophage P22)	Transcriptional repressor arc
+1ARR	K2T/M4R/S5R/K6E/P8T	-2.8	A	P03050	Salmonella phage P22 (Bacteriophage P22)	Transcriptional repressor arc
+1ARR	F45L/R50G/I51S	1.2	A	P03050	Salmonella phage P22 (Bacteriophage P22)	Transcriptional repressor arc
+1ARR	Q9A/N11A/R13A	-1.21	A	P03050	Salmonella phage P22 (Bacteriophage P22)	Transcriptional repressor arc
+1ARR	K2T/G3A/S5N/M7T/P8Q	-2.9	A	P03050	Salmonella phage P22 (Bacteriophage P22)	Transcriptional repressor arc
+1ARR	K46R/E48V/I51S/A53K	0.9	A	P03050	Salmonella phage P22 (Bacteriophage P22)	Transcriptional repressor arc
+1ARR	Q9G/N11G/R13G	-0.2	A	P03050	Salmonella phage P22 (Bacteriophage P22)	Transcriptional repressor arc
+1ARR	N29A/S44A/E48A	-1.32	A	P03050	Salmonella phage P22 (Bacteriophage P22)	Transcriptional repressor arc
+1AV1	R118V/H120A	0.5	A	P02647	Homo sapiens (Human)	Apolipoprotein A-I
+1AV1	D60A/D61A	1.05	A	P02647	Homo sapiens (Human)	Apolipoprotein A-I
+1AV1	R74V/K76A	0.25	A	P02647	Homo sapiens (Human)	Apolipoprotein A-I
+1AV1	E68A/E69A	0.75	A	P02647	Homo sapiens (Human)	Apolipoprotein A-I
+1AV1	E83K/E86K/K91E/E97K	-0.45	A	P02647	Homo sapiens (Human)	Apolipoprotein A-I
+1B5M	R13H/E18S	-1.25	A	P04166	Rattus norvegicus (Rat)	Cytochrome b5 type B
+1B5M	A16S/I30L/L45R	0.3	A	P04166	Rattus norvegicus (Rat)	Cytochrome b5 type B
+1BCX	V98C/A152C	7.525	A	P09850	Niallia circulans (Bacillus circulans)	Endo-1,4-beta-xylanase
+1BCX	S100C/N148C	-1.67	A	P09850	Niallia circulans (Bacillus circulans)	Endo-1,4-beta-xylanase
+1BNI	Q13I/T14R/K17R	-1.98	A	P00648	Bacillus amyloliquefaciens (Bacillus velezensis)	Ribonuclease
+1BNI	H16K/W92L	2.7	A	P00648	Bacillus amyloliquefaciens (Bacillus velezensis)	Ribonuclease
+1BNI	S83C/H100C	5.95	A	P00648	Bacillus amyloliquefaciens (Bacillus velezensis)	Ribonuclease
+1BNI	H16R/W92L	1.6	A	P00648	Bacillus amyloliquefaciens (Bacillus velezensis)	Ribonuclease
+1BNI	I2A/Y76F	2.53	A	P00648	Bacillus amyloliquefaciens (Bacillus velezensis)	Ribonuclease
+1BNI	D10A/T14R	0.13	A	P00648	Bacillus amyloliquefaciens (Bacillus velezensis)	Ribonuclease
+1BNI	D6A/D10A	0.585	A	P00648	Bacillus amyloliquefaciens (Bacillus velezensis)	Ribonuclease
+1BNI	A41C/S78C	0.64	A	P00648	Bacillus amyloliquefaciens (Bacillus velezensis)	Ribonuclease
+1BNI	D6A/R108A	0.47	A	P00648	Bacillus amyloliquefaciens (Bacillus velezensis)	Ribonuclease
+1BNI	R67S/D91N	3.49	A	P00648	Bacillus amyloliquefaciens (Bacillus velezensis)	Ribonuclease
+1BNI	T24H/D52N	5.005	A	P00648	Bacillus amyloliquefaciens (Bacillus velezensis)	Ribonuclease
+1BNI	H16G/W92L	0.43	A	P00648	Bacillus amyloliquefaciens (Bacillus velezensis)	Ribonuclease
+1BNI	Y11F/Y15F	1.23	A	P00648	Bacillus amyloliquefaciens (Bacillus velezensis)	Ribonuclease
+1BNI	W92L/H16G	-0.33	A	P00648	Bacillus amyloliquefaciens (Bacillus velezensis)	Ribonuclease
+1BNI	R81K/D73N	5.4	A	P00648	Bacillus amyloliquefaciens (Bacillus velezensis)	Ribonuclease
+1BNI	H16A/W92L	2.3	A	P00648	Bacillus amyloliquefaciens (Bacillus velezensis)	Ribonuclease
+1BNI	D10A/R108A	0.72	A	P00648	Bacillus amyloliquefaciens (Bacillus velezensis)	Ribonuclease
+1BNI	H16N/W92L	1.7	A	P00648	Bacillus amyloliquefaciens (Bacillus velezensis)	Ribonuclease
+1BNI	I2A/I49V	2.63	A	P00648	Bacillus amyloliquefaciens (Bacillus velezensis)	Ribonuclease
+1BNI	T14S/Y15A	2.47	A	P00648	Bacillus amyloliquefaciens (Bacillus velezensis)	Ribonuclease
+1BNI	I2A/I74V	1.86	A	P00648	Bacillus amyloliquefaciens (Bacillus velezensis)	Ribonuclease
+1BNI	Y15A/T14A	1.92	A	P00648	Bacillus amyloliquefaciens (Bacillus velezensis)	Ribonuclease
+1BNI	D6A/V8A	1.13	A	P00648	Bacillus amyloliquefaciens (Bacillus velezensis)	Ribonuclease
+1BNI	Y11A/Y15A	-2.23	A	P00648	Bacillus amyloliquefaciens (Bacillus velezensis)	Ribonuclease
+1BNI	I2A/I23V/I49V/Y76F	5.2	A	P00648	Bacillus amyloliquefaciens (Bacillus velezensis)	Ribonuclease
+1BNI	D6A/D10A/R108A	-0.992	A	P00648	Bacillus amyloliquefaciens (Bacillus velezensis)	Ribonuclease
+1BNI	Q13I/T14R/K17R/G63S/K64A/K106R	-2.98	A	P00648	Bacillus amyloliquefaciens (Bacillus velezensis)	Ribonuclease
+1BNI	H16S/W92L	2.8	A	P00648	Bacillus amyloliquefaciens (Bacillus velezensis)	Ribonuclease
+1BPI	C30G/C51A	8.74	A	P00974	Bos taurus (Bovine)	Pancreatic trypsin inhibitor
+1BPI	C30S/C51A	8.0	A	P00974	Bos taurus (Bovine)	Pancreatic trypsin inhibitor
+1BPI	C30V/C51A	5.95	A	P00974	Bos taurus (Bovine)	Pancreatic trypsin inhibitor
+1BPI	C30A/C51A	6.14	A	P00974	Bos taurus (Bovine)	Pancreatic trypsin inhibitor
+1BPI	C30A/C51S	8.93	A	P00974	Bos taurus (Bovine)	Pancreatic trypsin inhibitor
+1BPI	C30T/C51A	7.81	A	P00974	Bos taurus (Bovine)	Pancreatic trypsin inhibitor
+1BRF	A1K/I23V	0.55	A	P24297	Pyrococcus furiosus (strain ATCC 43587 / DSM 3638 / JCM 8422 / Vc1)	Rubredoxin
+1BRF	A1K/L32I	0.88	A	P24297	Pyrococcus furiosus (strain ATCC 43587 / DSM 3638 / JCM 8422 / Vc1)	Rubredoxin
+1BVC	V66A/L137A	-0.42	A	P02185	Physeter macrocephalus (Sperm whale) (Physeter catodon)	Myoglobin
+1BVC	V66A/V114A/G129A/L149A/G23A/V13A	0.37	A	P02185	Physeter macrocephalus (Sperm whale) (Physeter catodon)	Myoglobin
+1BVC	V114A/H116A/S117A/G23A	0.48	A	P02185	Physeter macrocephalus (Sperm whale) (Physeter catodon)	Myoglobin
+1BVC	V66A/V114A/V13A/G23A	1.48	A	P02185	Physeter macrocephalus (Sperm whale) (Physeter catodon)	Myoglobin
+1BVC	V114A/L149A/G129A	-1.4	A	P02185	Physeter macrocephalus (Sperm whale) (Physeter catodon)	Myoglobin
+1BVC	G129A/V66A	1.36	A	P02185	Physeter macrocephalus (Sperm whale) (Physeter catodon)	Myoglobin
+1BVC	V66A/L135A	-4.79	A	P02185	Physeter macrocephalus (Sperm whale) (Physeter catodon)	Myoglobin
+1BVC	V66A/G23A	0.45	A	P02185	Physeter macrocephalus (Sperm whale) (Physeter catodon)	Myoglobin
+1BVC	L11A/V66A	-0.57	A	P02185	Physeter macrocephalus (Sperm whale) (Physeter catodon)	Myoglobin
+1BVC	V66A/L149A	-0.97	A	P02185	Physeter macrocephalus (Sperm whale) (Physeter catodon)	Myoglobin
+1BVC	G129A/V114A	0.92	A	P02185	Physeter macrocephalus (Sperm whale) (Physeter catodon)	Myoglobin
+1BVC	V66A/V114A/G129A	-0.64	A	P02185	Physeter macrocephalus (Sperm whale) (Physeter catodon)	Myoglobin
+1BVC	V66A/G129A/G23A	1.1	A	P02185	Physeter macrocephalus (Sperm whale) (Physeter catodon)	Myoglobin
+1BVC	V114A/H116A/S117A/V66A/G129A/L149A	0.92	A	P02185	Physeter macrocephalus (Sperm whale) (Physeter catodon)	Myoglobin
+1BVC	G23A/G25A	-0.76	A	P02185	Physeter macrocephalus (Sperm whale) (Physeter catodon)	Myoglobin
+1BVC	V114A/G129A/V66A/L149A	-0.72	A	P02185	Physeter macrocephalus (Sperm whale) (Physeter catodon)	Myoglobin
+1BVC	V66A/V114A	-0.62	A	P02185	Physeter macrocephalus (Sperm whale) (Physeter catodon)	Myoglobin
+1BVC	G65A/G73A	0.125	A	P02185	Physeter macrocephalus (Sperm whale) (Physeter catodon)	Myoglobin
+1BVC	H24V/H119F	-0.575	A	P02185	Physeter macrocephalus (Sperm whale) (Physeter catodon)	Myoglobin
+1BVC	V66A/G129A/L149A	0.16	A	P02185	Physeter macrocephalus (Sperm whale) (Physeter catodon)	Myoglobin
+1BVC	V66A/V114A/V13A	-0.97	A	P02185	Physeter macrocephalus (Sperm whale) (Physeter catodon)	Myoglobin
+1BVC	V114A/V66A/G129A/L149A/G23A	-0.31	A	P02185	Physeter macrocephalus (Sperm whale) (Physeter catodon)	Myoglobin
+1BVC	N132G/E136G	0.3	A	P02185	Physeter macrocephalus (Sperm whale) (Physeter catodon)	Myoglobin
+1BVC	V114A/H116A/S117A	0.7	A	P02185	Physeter macrocephalus (Sperm whale) (Physeter catodon)	Myoglobin
+1BVC	V66A/V13A	0.86	A	P02185	Physeter macrocephalus (Sperm whale) (Physeter catodon)	Myoglobin
+1BVC	V66A/G129A/G23A/V13A	0.75	A	P02185	Physeter macrocephalus (Sperm whale) (Physeter catodon)	Myoglobin
+1C2R	K14E/K32E	0.8	A	P00094	Rhodobacter capsulatus (strain ATCC BAA-309 / NBRC 16581 / SB1003)	Cytochrome c2
+1C9O	E50W/Q2C	-0.2	A	P41016	Bacillus caldolyticus	Cold shock protein CspB
+1C9O	R3E/E46A/L66E	1.65	A	P41016	Bacillus caldolyticus	Cold shock protein CspB
+1C9O	F38W/L66C	0.985	A	P41016	Bacillus caldolyticus	Cold shock protein CspB
+1C9O	G23Q/S24D	-0.07	A	P41016	Bacillus caldolyticus	Cold shock protein CspB
+1C9O	E46A/L66E	0.84	A	P41016	Bacillus caldolyticus	Cold shock protein CspB
+1C9O	F38W/N11C	1.2	A	P41016	Bacillus caldolyticus	Cold shock protein CspB
+1C9O	R3E/E46A	0.43	A	P41016	Bacillus caldolyticus	Cold shock protein CspB
+1C9O	R3E/L66E	1.94	A	P41016	Bacillus caldolyticus	Cold shock protein CspB
+1C9O	E50W/S24C	0.75	A	P41016	Bacillus caldolyticus	Cold shock protein CspB
+1C9O	R3E/E21A	2.7	A	P41016	Bacillus caldolyticus	Cold shock protein CspB
+1C9O	E50W/L66C	6.6	A	P41016	Bacillus caldolyticus	Cold shock protein CspB
+1CAH	H105N/E115A	-1.8	A	P00918	Homo sapiens (Human)	Carbonic anhydrase 2
+1CAH	W3F/W14F	3.4	A	P00918	Homo sapiens (Human)	Carbonic anhydrase 2
+1CAH	W121C/C203S	1.2	A	P00918	Homo sapiens (Human)	Carbonic anhydrase 2
+1CAH	I253C/C203S	1.35	A	P00918	Homo sapiens (Human)	Carbonic anhydrase 2
+1CAH	S54C/C203S	1.35	A	P00918	Homo sapiens (Human)	Carbonic anhydrase 2
+1CAH	L58C/S170C	1.35	A	P00918	Homo sapiens (Human)	Carbonic anhydrase 2
+1CAH	V66C/C203S	1.8	A	P00918	Homo sapiens (Human)	Carbonic anhydrase 2
+1CDC	A37G/L47V	-0.72	A	P08921	Rattus norvegicus (Rat)	T-cell surface antigen CD2
+1CDC	L13V/L92V	-2.01	A	P08921	Rattus norvegicus (Rat)	T-cell surface antigen CD2
+1CDC	V75A/L86V	-4.06	A	P08921	Rattus norvegicus (Rat)	T-cell surface antigen CD2
+1CDC	I15V/V75A	-5.06	A	P08921	Rattus norvegicus (Rat)	T-cell surface antigen CD2
+1CEY	T111A/F13N	-1.4	A	P0AE67	Escherichia coli (strain K12)	Chemotaxis protein CheY
+1CEY	A35G/F13N	0.2	A	P0AE67	Escherichia coli (strain K12)	Chemotaxis protein CheY
+1CEY	A41G/F13N	-0.6	A	P0AE67	Escherichia coli (strain K12)	Chemotaxis protein CheY
+1CEY	D63G/F13N	-2.6	A	P0AE67	Escherichia coli (strain K12)	Chemotaxis protein CheY
+1CEY	P109G/F13N	-1.1	A	P0AE67	Escherichia coli (strain K12)	Chemotaxis protein CheY
+1CEY	K90G/F13N	-3.4	A	P0AE67	Escherichia coli (strain K12)	Chemotaxis protein CheY
+1CEY	A97G/F13N	-1.6	A	P0AE67	Escherichia coli (strain K12)	Chemotaxis protein CheY
+1CEY	A102G/F13N	-1.2	A	P0AE67	Escherichia coli (strain K12)	Chemotaxis protein CheY
+1CEY	T111G/F13N	-1.9	A	P0AE67	Escherichia coli (strain K12)	Chemotaxis protein CheY
+1CEY	A96G/F13N	-1.5	A	P0AE67	Escherichia coli (strain K12)	Chemotaxis protein CheY
+1CEY	D37G/F13N	-1.9	A	P0AE67	Escherichia coli (strain K12)	Chemotaxis protein CheY
+1CEY	G75A/F13N	-3.4	A	P0AE67	Escherichia coli (strain K12)	Chemotaxis protein CheY
+1CEY	D37A/F13N	-1.0	A	P0AE67	Escherichia coli (strain K12)	Chemotaxis protein CheY
+1CEY	K90A/F13N	-3.3	A	P0AE67	Escherichia coli (strain K12)	Chemotaxis protein CheY
+1CEY	D63A/F13N	-1.7	A	P0AE67	Escherichia coli (strain K12)	Chemotaxis protein CheY
+1CHK	W28F/W101F	0.585	A	P33665	Streptomyces sp. (strain N174)	Chitosanase
+1CSP	E3R/F15A/D25K/F27A	1.24	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	E21Q/E19Q	0.41	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	E43S/A46K/S48R	-2.7	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	M1R/E3K/E66K	-1.55	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	E3R/E66L	-1.53	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	M1R/E3K/K65I/E66L	-4.8	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	V20E/E3R	3.37	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	E3R/F15A/F27A	-0.0	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	E3K/E66K	-1.91	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	D25Q/E19Q	1.1	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	V20Q/E3R	1.63	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	E43S/A46K/S48K	-2.61	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	E3R/A46K/S48R	-3.37	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	E3K/K65I/E66K	-2.94	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	M1R/E3K/K65I	-5.0	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	E3R/A46K/S48R/E66L	-2.8	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	D25K/E19Q	1.43	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	M1R/E3K	-3.9	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	E3R/F15A/E19K/F27A	0.57	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	V20K/E3R	2.1	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	E43K/A46K/S48K	-2.89	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	E43G/A46K/S48R	-2.82	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	M1R/E3K/K65I/E66K	-3.37	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	A46K/S48R/E66L	-3.75	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	E66L/A67P	-2.15	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	M1R/K65I/E66K	-3.56	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	N55S/Q59R	0.17	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	M1R/E66K	-2.63	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	E3R/T64V/E66L	-3.7	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CSP	A46K/S48R	-2.65	A	P32081	Bacillus subtilis (strain 168)	Cold shock protein CspB
+1CYO	S71L/L32I	-0.5	A	P00171	Bos taurus (Bovine)	Cytochrome b5
+1DIV	F5V/K12M	2.035	A	P02417	Geobacillus stearothermophilus (Bacillus stearothermophilus)	50S ribosomal protein L9
+1DPM	H220R/H223L	2.89	A	P0A434	Brevundimonas diminuta (Pseudomonas diminuta)	Parathion hydrolase
+1FLV	H33A/F6L	1.175	A	P0A3D9	Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576)	Flavodoxin
+1FLV	H33A/Y46F	1.085	A	P0A3D9	Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576)	Flavodoxin
+1FNF	R280I/V285R/A286V	0.24	A	P02751	Homo sapiens (Human)	Fibronectin
+1FNF	A199C/L267P/V301C	-0.54	A	P02751	Homo sapiens (Human)	Fibronectin
+1FNF	R230I/D232I	0.6	A	P02751	Homo sapiens (Human)	Fibronectin
+1FTG	E19K/E71K	-0.425	A	P0A3E0	Nostoc sp. (strain ATCC 29151 / PCC 7119) (Anabaena sp.)	Flavodoxin
+1HFY	A30I/T33I	-0.4	A	P00712	Capra hircus (Goat)	Alpha-lactalbumin
+1HK0	Q54A/Q142A	0.35	X	P07320	Homo sapiens (Human)	Gamma-crystallin D
+1HK0	R79A/M146A	0.75	X	P07320	Homo sapiens (Human)	Gamma-crystallin D
+1HME	I34H/N47H/D51H	-0.53	A	P63159	Rattus norvegicus (Rat)	High mobility group protein B1
+1HME	I34H/N47H/D52H	1.1	A	P63159	Rattus norvegicus (Rat)	High mobility group protein B1
+1HME	N47H/D52H	-0.295	A	P63159	Rattus norvegicus (Rat)	High mobility group protein B1
+1HME	G35H/N47H/D52H	0.72	A	P63159	Rattus norvegicus (Rat)	High mobility group protein B1
+1HME	G35H/N47H/D51H	-0.295	A	P63159	Rattus norvegicus (Rat)	High mobility group protein B1
+1HME	N47H/D51H	-0.62	A	P63159	Rattus norvegicus (Rat)	High mobility group protein B1
+1HME	S33H/N47H/D51H	0.985	A	P63159	Rattus norvegicus (Rat)	High mobility group protein B1
+1HTI	Q179D/K193A/A215P	-3.0	A	P60174	Homo sapiens (Human)	Triosephosphate isomerase
+1I5T	H26V/H33F	2.15	A	P00004	Equus caballus (Horse)	Cytochrome c
+1I5T	H26V/N52I	1.86	A	P00004	Equus caballus (Horse)	Cytochrome c
+1I5T	P30A/Y67F	2.585	A	P00004	Equus caballus (Horse)	Cytochrome c
+1IGV	E17Q/D19N	-1.19	A	P02633	Bos taurus (Bovine)	Protein S100-G
+1IGV	E17Q/E26Q	-0.26	A	P02633	Bos taurus (Bovine)	Protein S100-G
+1IGV	E17Q/D19N/E26Q	-0.93	A	P02633	Bos taurus (Bovine)	Protein S100-G
+1IGV	D19N/E26Q	-0.52	A	P02633	Bos taurus (Bovine)	Protein S100-G
+1IMQ	V37L/E41V/V71I	-0.79	A	P13479	Escherichia coli	Colicin-E9 immunity protein
+1IRL	L18M/L19S	-0.0	A	P60568	Homo sapiens (Human)	Interleukin-2
+1K9Q	A16R/D30T	-1.34	A	P46937	Homo sapiens (Human)	Transcriptional coactivator YAP1
+1K9Q	A16R/L26Y	-1.86	A	P46937	Homo sapiens (Human)	Transcriptional coactivator YAP1
+1K9Q	A16R/L26Y/D30T	-2.54	A	P46937	Homo sapiens (Human)	Transcriptional coactivator YAP1
+1L63	I27M/L33M	3.1	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+1L63	M102A/M106A	3.7	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+1LMB	V36L/M40L/V47I	-0.2	4	P03034	Escherichia phage lambda (Bacteriophage lambda)	Repressor protein cI
+1LMB	V36F/M40F/V47I/L65F	1.7	4	P03034	Escherichia phage lambda (Bacteriophage lambda)	Repressor protein cI
+1LMB	G46A/G48A	0.37	4	P03034	Escherichia phage lambda (Bacteriophage lambda)	Repressor protein cI
+1LMB	A20G/G46A/G48A	-0.87	4	P03034	Escherichia phage lambda (Bacteriophage lambda)	Repressor protein cI
+1LMB	A63G/G46A/G48A	-1.49	4	P03034	Escherichia phage lambda (Bacteriophage lambda)	Repressor protein cI
+1LMB	G46A/G48A/P78A	-0.2	4	P03034	Escherichia phage lambda (Bacteriophage lambda)	Repressor protein cI
+1LMB	A49G/G46A/G48A	-1.25	4	P03034	Escherichia phage lambda (Bacteriophage lambda)	Repressor protein cI
+1LMB	V36L/M40V/V47I	1.1	4	P03034	Escherichia phage lambda (Bacteriophage lambda)	Repressor protein cI
+1LMB	V36I/M40V/V47L	0.9	4	P03034	Escherichia phage lambda (Bacteriophage lambda)	Repressor protein cI
+1LMB	A15G/G46A/G48A	0.55	4	P03034	Escherichia phage lambda (Bacteriophage lambda)	Repressor protein cI
+1LMB	V36F/M40F/V47I	2.2	4	P03034	Escherichia phage lambda (Bacteriophage lambda)	Repressor protein cI
+1LMB	V36F/M40F/V47F	3.05	4	P03034	Escherichia phage lambda (Bacteriophage lambda)	Repressor protein cI
+1LMB	Y88C/G46A/G48A	-4.2	4	P03034	Escherichia phage lambda (Bacteriophage lambda)	Repressor protein cI
+1LMB	A81G/G46A/G48A	-0.77	4	P03034	Escherichia phage lambda (Bacteriophage lambda)	Repressor protein cI
+1LMB	A66G/G46A/G48A	-0.07	4	P03034	Escherichia phage lambda (Bacteriophage lambda)	Repressor protein cI
+1LMB	V36F/M40L	1.4	4	P03034	Escherichia phage lambda (Bacteriophage lambda)	Repressor protein cI
+1LMB	M40V/V47L	1.1	4	P03034	Escherichia phage lambda (Bacteriophage lambda)	Repressor protein cI
+1LMB	A37G/G46A/G48A	-0.62	4	P03034	Escherichia phage lambda (Bacteriophage lambda)	Repressor protein cI
+1LMB	V36I/M40V/V47I	0.8	4	P03034	Escherichia phage lambda (Bacteriophage lambda)	Repressor protein cI
+1LS4	T31A/T144A	1.06	A	P10762	Locusta migratoria (Migratory locust)	Apolipophorin-3b
+1LVE	M4L/Y31D	-2.1	A	P01625	Homo sapiens (Human)	Immunoglobulin kappa variable 4-1
+1LVE	Y31D/S35D	-1.4	A	P01625	Homo sapiens (Human)	Immunoglobulin kappa variable 4-1
+1LVE	Q95N/Y31D	-1.0	A	P01625	Homo sapiens (Human)	Immunoglobulin kappa variable 4-1
+1LVE	Q44N/Y31D	-1.9	A	P01625	Homo sapiens (Human)	Immunoglobulin kappa variable 4-1
+1LVE	Q95D/Y31D	-2.6	A	P01625	Homo sapiens (Human)	Immunoglobulin kappa variable 4-1
+1LVE	M4L/Y31D/T100H	-4.4	A	P01625	Homo sapiens (Human)	Immunoglobulin kappa variable 4-1
+1LVE	Q44D/Y31D	-1.5	A	P01625	Homo sapiens (Human)	Immunoglobulin kappa variable 4-1
+1LVE	Q95N/Y31D/M4L/T100H	-3.3	A	P01625	Homo sapiens (Human)	Immunoglobulin kappa variable 4-1
+1LVE	Y31D/S35D/K36T	-0.6	A	P01625	Homo sapiens (Human)	Immunoglobulin kappa variable 4-1
+1LVE	Q95D/Y31D/M4L/T100H	1.2	A	P01625	Homo sapiens (Human)	Immunoglobulin kappa variable 4-1
+1LZ1	W64C/C65A	2.2	A	P61626	Homo sapiens (Human)	Lysozyme C
+1LZ1	P71G/P103G	1.1	A	P61626	Homo sapiens (Human)	Lysozyme C
+1LZ1	C77A/C95A	5.8	A	P61626	Homo sapiens (Human)	Lysozyme C
+1MJC	F17L/F30L	1.56	A	P0A9X9	Escherichia coli (strain K12)	Cold shock protein CspA
+1MJC	F19S/F30S	0.96	A	P0A9X9	Escherichia coli (strain K12)	Cold shock protein CspA
+1MJC	F17S/F19S/F30S	1.77	A	P0A9X9	Escherichia coli (strain K12)	Cold shock protein CspA
+1MJC	F17S/F19S	1.97	A	P0A9X9	Escherichia coli (strain K12)	Cold shock protein CspA
+1MJC	F17L/F19L/F30L	0.88	A	P0A9X9	Escherichia coli (strain K12)	Cold shock protein CspA
+1MJC	F17S/F30S	1.39	A	P0A9X9	Escherichia coli (strain K12)	Cold shock protein CspA
+1MJC	F17L/F19L	0.88	A	P0A9X9	Escherichia coli (strain K12)	Cold shock protein CspA
+1MJC	F19L/F30L	0.48	A	P0A9X9	Escherichia coli (strain K12)	Cold shock protein CspA
+1MSI	R48A/D59N	0.585	A	P19614	Zoarces americanus (Ocean pout) (Macrozoarces americanus)	Type-3 ice-structuring protein HPLC 12
+1MSI	R24A/E26A	0.5	A	P19614	Zoarces americanus (Ocean pout) (Macrozoarces americanus)	Type-3 ice-structuring protein HPLC 12
+1MSI	D37A/R40A	0.69	A	P19614	Zoarces americanus (Ocean pout) (Macrozoarces americanus)	Type-3 ice-structuring protein HPLC 12
+1OIA	N13E/Q37E/N65E/Q83K	-0.98	A	P09012	Homo sapiens (Human)	U1 small nuclear ribonucleoprotein A
+1ONC	C86A/C103A	7.65	A	P22069	Lithobates pipiens (Northern leopard frog) (Rana pipiens)	Protein P-30
+1OTR	I30L/I36F	1.29	B	P0CG63	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Polyubiquitin
+1OTR	I30V/I36F	2.49	B	P0CG63	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Polyubiquitin
+1OTR	K11A/E34S	-0.12	B	P0CG63	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Polyubiquitin
+1OTR	I30L/I36V	1.41	B	P0CG63	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Polyubiquitin
+1OTR	E34K/K11E	0.53	B	P0CG63	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Polyubiquitin
+1OTR	I30V/I36V	1.86	B	P0CG63	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Polyubiquitin
+1OTR	I30F/I36L	3.32	B	P0CG63	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Polyubiquitin
+1OTR	I30F/I36V	3.18	B	P0CG63	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Polyubiquitin
+1OTR	E34S/K11E	-0.45	B	P0CG63	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Polyubiquitin
+1OTR	I30L/I36L	1.94	B	P0CG63	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Polyubiquitin
+1OTR	K11A/E34L	-1.65	B	P0CG63	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Polyubiquitin
+1OTR	I30V/I36L	1.58	B	P0CG63	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Polyubiquitin
+1OTR	E34K/K11A	1.77	B	P0CG63	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Polyubiquitin
+1PGA	I6L/T53I	-2.8	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T53E/T44R	-0.79	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	I6R/T53E/T44A	-0.16	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T16I/T18F/T25E/V29F	-2.87	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	V21P/A23P	0.1	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T16L/T18Y/T25E/V29Y	-2.7	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T16L/T18I/T25S/V29W	-2.87	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	I6V/T53V	-2.5	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T16V/T18Y/T25S/V29W	-2.58	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	I6F/T53V	-2.1	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T16I/T18I/T25E/V29K	-2.46	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	I6T/T53V	-1.11	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T16I/T18L/T25E/V29K	-1.82	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	I6K/T53A	-1.605	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	I6T/T53Y	-1.7	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	I6K/T53R	-2.02	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T16I/T18I/T25Q/V29F	-3.2	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	I6A/T53A	-0.0	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	I6F/T53I	-2.1	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T16L/T18I/T25S/V29Y	-2.37	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T16I/T18F/V29F	-2.61	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	I6E/T53R	-1.765	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T16I/T18I/V29W	-2.63	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	I6V/T53F	-3.5	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	I6R/T53A/T44A	0.62	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T16I/T18V/T25M/V29Y	-2.68	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	I6T/T53F	-1.5	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T51S/D46G	3.4	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T16I/T18Y/T25L/V29F	-2.08	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T53A/T44R	-0.08	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	I6T/T53I	-1.28	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	I6F/T53Y	-2.8	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T53A/T44A	-0.14	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T53E/T44A	-0.34	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T16I/T18I/T25E/V29I	-2.46	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T16L/T18V/V29F	-2.49	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T16I/T18V/T25S/V29W	-2.7	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T16I/T18I/T25E/V29F	-3.01	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	I6V/T53I	-2.91	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	I6E/T53A	-0.16	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T16V/T18Y/T25E/V29Y	-2.61	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	I6A/T53R	-0.94	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T16L/T18Y/T25S/V29Y	-2.06	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T16I/T18I/T25S/V29Y	-2.96	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T16V/T18F/V29Y	-2.15	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T16L/T18Y/T25Q/V29Y	-2.34	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T16I/T18I/T25E/V29Y	-3.44	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	I6K/T53E	-2.23	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T16L/T18I/T25E/V29Y	-3.13	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T16I/T18L/T25E/V29F	-2.44	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	I6R/T53A/T44R	0.74	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	I6F/T53F	-2.97	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T16I/T18Y/T25S/V29F	-2.53	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	I6A/T53E	-0.255	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	T16I/T18Y/T25V/V29F	-2.27	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PGA	I6E/T53E	0.635	A	P06654	Streptococcus sp. group G	Immunoglobulin G-binding protein G
+1PHP	I217A/L221A	3.6	A	P18912	Geobacillus stearothermophilus (Bacillus stearothermophilus)	Phosphoglycerate kinase
+1QJP	Y42A/W44A	4.2	A	P0A910	Escherichia coli (strain K12)	Outer membrane protein A
+1QJP	Y134A/F136A	1.2	A	P0A910	Escherichia coli (strain K12)	Outer membrane protein A
+1QJP	F103A/Y121A/W123A	6.8	A	P0A910	Escherichia coli (strain K12)	Outer membrane protein A
+1QJP	W7A/Y30A	6.4	A	P0A910	Escherichia coli (strain K12)	Outer membrane protein A
+1QJP	F103A/Y121A	5.3	A	P0A910	Escherichia coli (strain K12)	Outer membrane protein A
+1QJP	Y121A/W123A	5.7	A	P0A910	Escherichia coli (strain K12)	Outer membrane protein A
+1QJP	F103A/W123A	3.9	A	P0A910	Escherichia coli (strain K12)	Outer membrane protein A
+1QLP	S359A/K365R	-2.1	A	P01009	Homo sapiens (Human)	Alpha-1-antitrypsin
+1QLP	F29L/M352I	-3.6	A	P01009	Homo sapiens (Human)	Alpha-1-antitrypsin
+1QLP	T37A/T46A/A48G	-3.4	A	P01009	Homo sapiens (Human)	Alpha-1-antitrypsin
+1RGG	D1K/D17K/E41K	2.7	A	P05798	Kitasatospora aureofaciens (Streptomyces aureofaciens)	Guanyl-specific ribonuclease Sa
+1RGG	D25K/E74K/S31P/S42G/S48P/T76P/Q77G/D79F/I70D	3.6	A	P05798	Kitasatospora aureofaciens (Streptomyces aureofaciens)	Guanyl-specific ribonuclease Sa
+1RGG	D25K/E74K/S31P/S42G/S48P/T76P/Q77G/D79F/I92D	2.2	A	P05798	Kitasatospora aureofaciens (Streptomyces aureofaciens)	Guanyl-specific ribonuclease Sa
+1RGG	D25K/E74K/S31P/S42G/S48P/T76P/Q77G/I92D	5.1	A	P05798	Kitasatospora aureofaciens (Streptomyces aureofaciens)	Guanyl-specific ribonuclease Sa
+1RGG	D1K/D17K/E41K/D25K/E74K	0.7	A	P05798	Kitasatospora aureofaciens (Streptomyces aureofaciens)	Guanyl-specific ribonuclease Sa
+1RGG	D1K/D17K/E41K/D25K/E74K/D79K	-0.7	A	P05798	Kitasatospora aureofaciens (Streptomyces aureofaciens)	Guanyl-specific ribonuclease Sa
+1RGG	R40E/R63E	0.6	A	P05798	Kitasatospora aureofaciens (Streptomyces aureofaciens)	Guanyl-specific ribonuclease Sa
+1RGG	D25K/E74K	-0.3	A	P05798	Kitasatospora aureofaciens (Streptomyces aureofaciens)	Guanyl-specific ribonuclease Sa
+1RGG	D25K/E74K/S31P/S42G/S48P/T76P/Q77G/D79F/I92A	-1.9	A	P05798	Kitasatospora aureofaciens (Streptomyces aureofaciens)	Guanyl-specific ribonuclease Sa
+1RGG	D1K/D17K/E41K/D25K/E74K/D79K/S31K	-0.2	A	P05798	Kitasatospora aureofaciens (Streptomyces aureofaciens)	Guanyl-specific ribonuclease Sa
+1RGG	D25K/E74K/S31P/S42G/S48P/T76P/Q77G/D79F	-6.3	A	P05798	Kitasatospora aureofaciens (Streptomyces aureofaciens)	Guanyl-specific ribonuclease Sa
+1RGG	D25K/E74K/S31P/S42G/S48P/T76P/Q77G/D79A	-4.9	A	P05798	Kitasatospora aureofaciens (Streptomyces aureofaciens)	Guanyl-specific ribonuclease Sa
+1RGG	R40E/R63E/R65A/R68A/R69A	2.5	A	P05798	Kitasatospora aureofaciens (Streptomyces aureofaciens)	Guanyl-specific ribonuclease Sa
+1RGG	D25K/E74K/S31P/S42G/S48P/T76P/Q77G	-3.9	A	P05798	Kitasatospora aureofaciens (Streptomyces aureofaciens)	Guanyl-specific ribonuclease Sa
+1RGG	D25K/E74K/S31P/S42G/S48P/T76P/Q77G/D79F/Y80A	-0.1	A	P05798	Kitasatospora aureofaciens (Streptomyces aureofaciens)	Guanyl-specific ribonuclease Sa
+1RGG	R40E/R63E/R65A	1.8	A	P05798	Kitasatospora aureofaciens (Streptomyces aureofaciens)	Guanyl-specific ribonuclease Sa
+1RHG	G122A/G123A	-4.2	A	P09919	Homo sapiens (Human)	Granulocyte colony-stimulating factor
+1RHG	G20A/G122A/G123A	-6.16	A	P09919	Homo sapiens (Human)	Granulocyte colony-stimulating factor
+1RHG	G18A/G122A/G123A	-3.46	A	P09919	Homo sapiens (Human)	Granulocyte colony-stimulating factor
+1RHG	G18A/G20A	-2.74	A	P09919	Homo sapiens (Human)	Granulocyte colony-stimulating factor
+1RN1	W58Y/H91A	1.53	B	P00651	Aspergillus oryzae (strain ATCC 42149 / RIB 40) (Yellow koji mold)	Guanyl-specific ribonuclease T1
+1RN1	Y23W/W58Y	-0.29	B	P00651	Aspergillus oryzae (strain ATCC 42149 / RIB 40) (Yellow koji mold)	Guanyl-specific ribonuclease T1
+1RN1	Y41W/W58Y	1.03	B	P00651	Aspergillus oryzae (strain ATCC 42149 / RIB 40) (Yellow koji mold)	Guanyl-specific ribonuclease T1
+1RN1	Q24K/E57A	-0.365	B	P00651	Aspergillus oryzae (strain ATCC 42149 / RIB 40) (Yellow koji mold)	Guanyl-specific ribonuclease T1
+1RN1	H39T/W58Y	0.93	B	P00651	Aspergillus oryzae (strain ATCC 42149 / RIB 40) (Yellow koji mold)	Guanyl-specific ribonuclease T1
+1RRO	P21A/P26A	1.77	A	P02631	Rattus norvegicus (Rat)	Oncomodulin
+1RTB	M30C/N44C	5.04	A	P61823	Bos taurus (Bovine)	Ribonuclease pancreatic
+1RTB	H105C/V124C	0.12	A	P61823	Bos taurus (Bovine)	Ribonuclease pancreatic
+1RTB	I107C/A122C	2.27	A	P61823	Bos taurus (Bovine)	Ribonuclease pancreatic
+1RTB	V43C/R85C	-1.0	A	P61823	Bos taurus (Bovine)	Ribonuclease pancreatic
+1RTB	A4C/V118C	-1.12	A	P61823	Bos taurus (Bovine)	Ribonuclease pancreatic
+1RTB	P93A/P114G	4.2	A	P61823	Bos taurus (Bovine)	Ribonuclease pancreatic
+1RTB	R10C/R33C	1.39	A	P61823	Bos taurus (Bovine)	Ribonuclease pancreatic
+1RTP	A21P/K80S	-0.45	1	P02625	Rattus norvegicus (Rat)	Parvalbumin alpha
+1RTP	A21P/H26P	0.5	1	P02625	Rattus norvegicus (Rat)	Parvalbumin alpha
+1RX4	L28R/E139Q	-0.46	A	P0ABQ4	Escherichia coli (strain K12)	Dihydrofolate reductase
+1RX4	R44L/P66A	-0.9	A	P0ABQ4	Escherichia coli (strain K12)	Dihydrofolate reductase
+1SAK	I14V/F23L	2.2	A	P04637	Homo sapiens (Human)	Cellular tumor antigen p53
+1SAK	I14V/M22I/F23L	3.1	A	P04637	Homo sapiens (Human)	Cellular tumor antigen p53
+1SAK	F23L/L26I	1.3	A	P04637	Homo sapiens (Human)	Cellular tumor antigen p53
+1SAK	F23L/L26F	8.4	A	P04637	Homo sapiens (Human)	Cellular tumor antigen p53
+1SAK	F10L/I14V/F23L/L26I	5.7	A	P04637	Homo sapiens (Human)	Cellular tumor antigen p53
+1SAK	I14V/F23L/L26I	0.1	A	P04637	Homo sapiens (Human)	Cellular tumor antigen p53
+1SCE	P85A/P87A	-0.93	A	P08463	Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast)	Cyclin-dependent kinases regulatory subunit
+1SCE	P85G/P87G	-0.88	A	P08463	Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast)	Cyclin-dependent kinases regulatory subunit
+1SHF	T44A/S41K	2.7	A	P06241	Homo sapiens (Human)	Tyrosine-protein kinase Fyn
+1SHF	G45A/S41K	1.89	A	P06241	Homo sapiens (Human)	Tyrosine-protein kinase Fyn
+1SHF	E24A/S41R	1.65	A	P06241	Homo sapiens (Human)	Tyrosine-protein kinase Fyn
+1SHF	E24R/S41D	1.34	A	P06241	Homo sapiens (Human)	Tyrosine-protein kinase Fyn
+1SHF	E24A/S41A	1.48	A	P06241	Homo sapiens (Human)	Tyrosine-protein kinase Fyn
+1SHF	E24A/S41D	0.9	A	P06241	Homo sapiens (Human)	Tyrosine-protein kinase Fyn
+1SHF	E24A/S41L	0.43	A	P06241	Homo sapiens (Human)	Tyrosine-protein kinase Fyn
+1SHF	E24A/S41K	1.17	A	P06241	Homo sapiens (Human)	Tyrosine-protein kinase Fyn
+1SHF	E24L/S41A	2.71	A	P06241	Homo sapiens (Human)	Tyrosine-protein kinase Fyn
+1SHG	A6V/V18L/M20I/V53L	-2.0	A	P07751	Gallus gallus (Chicken)	Spectrin alpha chain, non-erythrocytic 1
+1SHG	Y8F/K13F/K54F/Y52F	-2.48	A	P07751	Gallus gallus (Chicken)	Spectrin alpha chain, non-erythrocytic 1
+1SHG	Y52F/K54Y	-0.97	A	P07751	Gallus gallus (Chicken)	Spectrin alpha chain, non-erythrocytic 1
+1SHG	A6V/V18L/M20L/V39A/V48F/V53L	3.3	A	P07751	Gallus gallus (Chicken)	Spectrin alpha chain, non-erythrocytic 1
+1SHG	A6V/V18L/M20V/V39I/V53L	-1.0	A	P07751	Gallus gallus (Chicken)	Spectrin alpha chain, non-erythrocytic 1
+1SHG	A6V/V18L/M20I/V48I/V53L	0.1	A	P07751	Gallus gallus (Chicken)	Spectrin alpha chain, non-erythrocytic 1
+1SHG	A6V/M20I/V53L	-2.2	A	P07751	Gallus gallus (Chicken)	Spectrin alpha chain, non-erythrocytic 1
+1SHG	V4L/A6V/V18L/M20I/L28I/V39I/V48I/V53I	2.4	A	P07751	Gallus gallus (Chicken)	Spectrin alpha chain, non-erythrocytic 1
+1SHG	A6V/V18L/M20I/V39I/V53L	-0.2	A	P07751	Gallus gallus (Chicken)	Spectrin alpha chain, non-erythrocytic 1
+1SHG	V4L/A6V/V18L/M20I/L28I/V48I/V53I	2.5	A	P07751	Gallus gallus (Chicken)	Spectrin alpha chain, non-erythrocytic 1
+1SHG	K13Y/F47Y/K54Y	-2.11	A	P07751	Gallus gallus (Chicken)	Spectrin alpha chain, non-erythrocytic 1
+1SHG	A6V/V18L/M20V/V48I/V53L	-1.7	A	P07751	Gallus gallus (Chicken)	Spectrin alpha chain, non-erythrocytic 1
+1SHG	Y8F/K13Y/K54F/Y52F	-0.07200000000000001	A	P07751	Gallus gallus (Chicken)	Spectrin alpha chain, non-erythrocytic 1
+1SHG	K13Y/K54F	3.6	A	P07751	Gallus gallus (Chicken)	Spectrin alpha chain, non-erythrocytic 1
+1SHG	V4L/A6V/V18L/M20L/V48L/V53L	2.8	A	P07751	Gallus gallus (Chicken)	Spectrin alpha chain, non-erythrocytic 1
+1SHG	V4I/A6I/V18I/M20I/V39I/V48I/V53I	1.5	A	P07751	Gallus gallus (Chicken)	Spectrin alpha chain, non-erythrocytic 1
+1SHG	K13Y/K54F/Y52F	-1.207	A	P07751	Gallus gallus (Chicken)	Spectrin alpha chain, non-erythrocytic 1
+1SHG	A6V/M20I/V39I/V53L	-0.5	A	P07751	Gallus gallus (Chicken)	Spectrin alpha chain, non-erythrocytic 1
+1SHG	A6V/M20V/V39I/V53L	-1.5	A	P07751	Gallus gallus (Chicken)	Spectrin alpha chain, non-erythrocytic 1
+1SHG	V4I/A6V/V18L/M20I/V48F/V53L	2.6	A	P07751	Gallus gallus (Chicken)	Spectrin alpha chain, non-erythrocytic 1
+1SHG	K13Y/K22Y/F47Y/K54Y	-4.75	A	P07751	Gallus gallus (Chicken)	Spectrin alpha chain, non-erythrocytic 1
+1SHG	Y8F/K13F/K54F	-2.44	A	P07751	Gallus gallus (Chicken)	Spectrin alpha chain, non-erythrocytic 1
+1SHG	V4I/A6V/V18L/M20I/V39I/V48I/V53I	2.0	A	P07751	Gallus gallus (Chicken)	Spectrin alpha chain, non-erythrocytic 1
+1SHG	V4L/A6V/V18L/M20I/L26I/L28I/V39L/V48F/V53L	3.1	A	P07751	Gallus gallus (Chicken)	Spectrin alpha chain, non-erythrocytic 1
+1SHG	Y8F/Y52F	3.3	A	P07751	Gallus gallus (Chicken)	Spectrin alpha chain, non-erythrocytic 1
+1SHG	Y8F/K13Y/K54F	0.064	A	P07751	Gallus gallus (Chicken)	Spectrin alpha chain, non-erythrocytic 1
+1SHG	V4I/V18L/M20V/V39I/V53N	4.1	A	P07751	Gallus gallus (Chicken)	Spectrin alpha chain, non-erythrocytic 1
+1STN	L32A/A64T	4.13	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/I67L	0.5	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	E70V/I87V	2.05	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/I67V/I87L/V94L	1.4	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/I87L/V94L	0.7	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61I/I67L/V94L	1.9	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L33A/V34A	4.0	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61I/I67V/V94L	1.6	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	E70V/T28S	3.21	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	G74D/N113D	2.58	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	A64T/A85S	4.7	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/I67V/I87V/V94I	0.8	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61I/V94I	0.7	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	I10V/I67V	2.01	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L20I/V61I	3.0	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18L/L20I/V61L	2.4	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L2A/I67V	2.41	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/L20I/V61L	2.5	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	G74S/Y108A	2.22	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/G74S	3.45	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18L/L20V/V61L	2.0	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18F/A64T	4.0	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18F/Y80A	2.51	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61I/I67V/I87L/V94I	2.0	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/V61I	1.5	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L2A/I10V	2.08	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61I/I87V	0.7	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18L/L20V/I67V	2.8	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/L20V/I67V/I87V	2.4	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	I67V/I87L/V94I	2.1	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	I67V/I87V	1.7	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61I/V94L	1.3	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/I67L	0.9	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61I/I67L/I87V/V94L	1.8	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	E70V/A125G	3.4	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/V61L	1.0	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18F/A85S	3.31	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L20I/V61L/I67L	2.3	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61I/I87V/V94I	0.5	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18L/L20I/I67V	2.5	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61I/I67L/I87L/V94I	3.3	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/I67L/I87L/V94L	1.3	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	I87V/V94L	0.9	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	T57A/G83V	3.2	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/G74S/G83V	3.05	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18L/L20V/V61L/I67V/I87V	2.2	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	G74S/Y80A	2.69	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L2A/Y108A	1.1	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	I13M/T28S	2.0	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/I67V/I87L	1.3	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	E70V/A85S	3.6	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L2A/I87V	1.54	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18F/A125G	3.5	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L2A/A125G	2.46	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	E70V/G74S	4.67	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18L/L20V/V61L/I67V	2.5	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	I67V/I87L/V94L	2.4	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61I/I67V/I87V/V94L	1.7	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/I87L/V94I	1.4	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/L20V/I67V/I87V/V94L	3.0	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18F/G74S	4.75	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18F/E70V	4.79	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L32A/L33A	1.8	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	I67L/V94I	0.5	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/I67V/I87V/V94L	0.7	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18F/L32A	3.17	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61I/I67L/I87L/V94L	3.0	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	I87V/V94I	0.7	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/I67V	1.1	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/L20I/V61I/I67L	3.2	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18F/I87V	2.01	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/L20I/V61I	2.9	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/G83V	0.585	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18L/L20I/I67L	1.4	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/L20I/V61L/I67V/I87V	2.3	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	M27A/T28A	3.3	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L32A/Y108A	1.46	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	I87L/V94L	1.3	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L2A/L32A	1.65	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L20V/V61I/I67V	3.1	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L32A/P112L	1.69	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	I67V/V94I	1.2	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18L/L20V/V61I	2.8	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61I/I87L/V94L	2.1	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18L/L20I/V61L/I67V	2.6	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	I67L/I87L/V94I	1.4	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L20I/I67V	3.0	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L20I/I67L	1.7	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/L20V/V61I	2.7	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18L/I67L	0.4	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	I13M/A85S	0.5	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18L/I67V	1.1	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	E68A/V69A	5.2	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/L20V/I67V/I87V/V94I	2.7	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L20V/V61I	2.9	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L32A/G74S	1.83	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61I/I67V/I87V	1.4	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	G74S/N113D	2.79	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L2A/E70V	3.64	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18L/V61L/I67L	1.3	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61I/I87L	1.9	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61I/I67V/I87L	2.0	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	I10V/Y80V	1.06	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/I67V/V94I	0.8	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	E70V/Y108A	1.55	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	I87L/V94I	0.9	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18L/V61I/I67V	1.6	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18F/Y108A	1.89	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	M60A/V61A	4.5	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/I87V/V94I	0.4	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/L20V/V61L/I67L	2.5	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18L/L20V/V61I/I67V	3.4	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18F/I10V	2.59	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	I67V/V94L	1.7	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	E70V/I67V	3.12	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L32A/A85S	3.32	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L20I/V61L/I67V	2.2	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61I/I87L/V94I	2.1	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	I67L/I87L/V94L	1.4	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L32A/N113D	1.72	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	I67L/I87V/V94I	0.7	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61I/I67V	1.2	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L20V/V61L	1.8	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/I67L/I87L/V94I	1.9	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/L20I/I67V	2.8	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61I/I67V/I87V/V94I	1.0	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L2A/V18F	3.65	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/L20I/I67L	1.7	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/L20I/V61I/I67V	3.2	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L32A/A125G	2.53	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	G74S/P112L	2.08	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L20A/M21A	4.4	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L32A/E70V	2.47	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/I67V/V94L	0.5	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/L20I	1.7	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	I67L/V94L	0.8	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	I67V/I87L	1.8	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18F/I67V	2.9	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61I/I67L/I87V	1.4	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L20V/V61L/I67L	2.2	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/I67L/I87L	1.5	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/L20V/V61I/I67V	3.0	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	F71W/W135H	1.0	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/L20V/I67V	2.3	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	G74S/I87V	2.55	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	E70V/P112L	1.61	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L20I/V61I/I67V	3.2	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L20V/I67L	1.6	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/I67V/I87V	0.5	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L32A/T28S	2.21	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18L/V61I	1.5	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/I87L	1.0	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L32A/I10V	2.17	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	I67L/I87V	0.7	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/V61I/I67L	2.0	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	I67L/I87V/V94L	1.1	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	I67L/I87L	0.7	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/L20V/V61L	2.1	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L20V/V61I/I67L	3.0	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	E70V/Y80A	2.51	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	I67V/Y108A	0.94	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	I67V/Y80A	1.6	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/L20V	1.4	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/I67L/I87V/V94I	1.0	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18L/L20I/V61I/I67V	3.4	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61I/I67L/V94I	1.9	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/L20V/V61L/I67V	2.1	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18L/L20I/V61I/I67L	3.2	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	I67V/I87V/V94I	1.4	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	F56A/T57A	4.6	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61I/I67L/I87L	2.3	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18L/L20V/V61L/I67L	2.0	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	Y80A/Y108A	0.23	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L2A/Y80A	1.6	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/V61L/I67V	0.9	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/I67V/I87L/V94I	1.8	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/I67L/V94L	0.8	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/V94L	-0.0	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61I/I67L/I87V/V94I	1.6	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61I/I67L	1.7	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L32A/I67V	2.78	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18L/V61L/I67V	1.3	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61I/I67V/V94I	0.8	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	I13M/A64T	0.37	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18L/L20I/V61I	3.1	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18L/V61I/I67L	2.0	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	T57G/G83V	3.66	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/I87V/V94L	-0.1	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/L20I/V61L/I67L	2.7	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61I/I87V/V94L	0.9	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18L/L20V	1.8	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18F/T28S	2.72	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/L20I/V61L/I67V	2.6	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	G74S/I67V	3.61	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L2A/G74S	2.77	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/V61L/I67V/I87V	0.6	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/I67L/V94I	1.0	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	F71V/H119L	-0.0	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L20V/V61L/I67V	2.0	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	T28S/A85S	3.16	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/L20V/V61I/I67L	2.8	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	I67V/I87V/V94L	2.0	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	T57A/V61L	2.4	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/V61L/I67L	1.4	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	G74S/A125G	3.68	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/V94I	0.6	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	G74S/I10V	3.1	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/I67V	0.5	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	E70V/I10V	2.83	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/I67L/I87V	0.8	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L32A/I87V	1.77	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/V61I/I67V	1.6	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18L/V61L	1.1	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	P112L/N113D	1.0	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L20I/V61I/I67L	3.0	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L32A/Y80A	1.98	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18L/L20I/V61L/I67L	2.4	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18L/L20V/I67L	1.5	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18L/L20V/V61I/I67L	2.8	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L20V/I67V	2.9	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18L/L20I	1.5	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/L20V/V61L/I67V/I87V	1.9	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61I/I67V/I87L/V94L	2.4	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/I87V	-0.1	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V18I/L20V/I67L	1.1	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	L20I/V61L	1.9	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	E70V/A64T	4.35	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	V61L/I67L/I87V/V94L	0.7	A	P00644	Staphylococcus aureus	Thermonuclease
+1STN	I10V/Y108A	0.62	A	P00644	Staphylococcus aureus	Thermonuclease
+1TIT	C47S/C63S	-3.2	A	Q10466	Homo sapiens (Human)	Titin
+1UWO	L3A/I11A	2.165	A	P04271	Homo sapiens (Human)	Protein S100-B
+1UWO	L3A/F14A	7.05	A	P04271	Homo sapiens (Human)	Protein S100-B
+1VQB	V35C/I47C	5.95	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	L32Y/R82C	-0.15	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	V35M/I47F	1.275	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	V35I/I47M	2.225	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	Y41F/F73W	0.66	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	C33V/V35C	1.57	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	L28V/F68L	3.86	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	I6V/E30F	-0.71	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	V35L/I47V	4.55	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	V35L/I47L	2.89	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	H64C/F68L	4.07	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	V35M/I47M	3.41	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	C33M/I47C	5.73	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	V35A/I47F	2.885	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	V45C/R82C	1.05	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	F13T/E30F	-1.59	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	V35A/I47M	3.955	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	E30F/A86T	-1.17	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	V35I/I47L	0.64	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	I6V/M77V	0.04	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	V35A/I47V	3.61	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	V35L/I47M	4.005	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	V35L/I47F	3.3	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	V35F/I47L	3.91	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	L65P/F68L	4.25	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	E30F/A86V	-2.05	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	V35M/I47L	1.25	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	V35I/I47F	1.29	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	V35A/I47A	10.8	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	I6V/M77I	-0.34	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	V35A/I47L	2.035	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1VQB	V35I/I47V	2.61	A	P69543	Enterobacteria phage f1 (Bacteriophage f1)	DNA-Binding protein G5P
+1WQ5	F131W/F248W	0.8	A	P0A877	Escherichia coli (strain K12)	Tryptophan synthase alpha chain
+1WQ5	Y167C/G201E	1.15	A	P0A877	Escherichia coli (strain K12)	Tryptophan synthase alpha chain
+1YCC	T100A/C106T	2.225	A	P00044	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Cytochrome c isoform 1
+1YCC	N57I/C106A	-6.2	A	P00044	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Cytochrome c isoform 1
+1YCC	N57G/C106A	-0.9	A	P00044	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Cytochrome c isoform 1
+1YCC	T74E/C106T	-0.76	A	P00044	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Cytochrome c isoform 1
+1YCC	N57A/C106A	-3.9	A	P00044	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Cytochrome c isoform 1
+1YCC	F86Y/L89A	2.9	A	P00044	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Cytochrome c isoform 1
+1YCC	G34S/N57I	1.5	A	P00044	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Cytochrome c isoform 1
+1YCC	R18C/C106T	-4.21	A	P00044	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Cytochrome c isoform 1
+1YCC	H31N/H38N/H44Q/C106S	1.05	A	P00044	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Cytochrome c isoform 1
+1YCC	H38P/N57I	0.8	A	P00044	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Cytochrome c isoform 1
+1YCC	R18C/D94C/C106T	-0.91	A	P00044	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Cytochrome c isoform 1
+1YCC	T74E/T100A/C106T	2.47	A	P00044	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Cytochrome c isoform 1
+1YCC	G11A/N57I	0.635	A	P00044	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Cytochrome c isoform 1
+1YCC	D94C/C106T	-0.91	A	P00044	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Cytochrome c isoform 1
+1YCC	G11S/N57I	0.31	A	P00044	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Cytochrome c isoform 1
+2ABD	K52M/K54M	-1.01	A	P07107	Bos taurus (Bovine)	Acyl-CoA-binding protein
+2AC0	L52V/V64L	-0.8	A	P04637	Homo sapiens (Human)	Cellular tumor antigen p53
+2AC0	C31W/M40L/C42I/C48F	2.0	A	P04637	Homo sapiens (Human)	Cellular tumor antigen p53
+2AC0	M40L/C48V/Y143F/T160L	1.2	A	P04637	Homo sapiens (Human)	Cellular tumor antigen p53
+2AC0	C31W/M40L	1.3	A	P04637	Homo sapiens (Human)	Cellular tumor antigen p53
+2AC0	L52I/V64I	1.2	A	P04637	Homo sapiens (Human)	Cellular tumor antigen p53
+2AC0	H22E/W53R/Q72K/Q74E/L113H/F119K/N175R	-0.3	A	P04637	Homo sapiens (Human)	Cellular tumor antigen p53
+2ACY	K24E/E63K/N82K/Q95K	-1.67	A	P41500	Bos taurus (Bovine)	Acylphosphatase-1
+2AFG	H12Y/H93Y/F99Y	-1.0835	A	P05230	Homo sapiens (Human)	Fibroblast growth factor 1
+2AFG	H12Y/H93Y	-0.733	A	P05230	Homo sapiens (Human)	Fibroblast growth factor 1
+2AFG	L35W/F123W	0.93	A	P05230	Homo sapiens (Human)	Fibroblast growth factor 1
+2AFG	H12Y/L35F/H93Y/F99Y	-1.4625	A	P05230	Homo sapiens (Human)	Fibroblast growth factor 1
+2AFG	C74T/C108V	-1.46	A	P05230	Homo sapiens (Human)	Fibroblast growth factor 1
+2AFG	H12Y/L35F	-0.992	A	P05230	Homo sapiens (Human)	Fibroblast growth factor 1
+2AFG	L35P/L64V/V100L	0.14	A	P05230	Homo sapiens (Human)	Fibroblast growth factor 1
+2AFG	H12Y/L35F/F99Y	-1.2105	A	P05230	Homo sapiens (Human)	Fibroblast growth factor 1
+2AFG	L64V/V100L	0.88	A	P05230	Homo sapiens (Human)	Fibroblast growth factor 1
+2AFG	H93Y/F99Y	-0.5805	A	P05230	Homo sapiens (Human)	Fibroblast growth factor 1
+2AFG	C7S/H84G	1.0	A	P05230	Homo sapiens (Human)	Fibroblast growth factor 1
+2AFG	H12Y/F99Y	-0.7145	A	P05230	Homo sapiens (Human)	Fibroblast growth factor 1
+2AFG	L35F/H93Y/F99Y	-0.9475	A	P05230	Homo sapiens (Human)	Fibroblast growth factor 1
+2AFG	L35F/H93Y	-0.6829999999999999	A	P05230	Homo sapiens (Human)	Fibroblast growth factor 1
+2AFG	L35F/F99Y	-0.6705	A	P05230	Homo sapiens (Human)	Fibroblast growth factor 1
+2AFG	C74S/C108S	1.805	A	P05230	Homo sapiens (Human)	Fibroblast growth factor 1
+2AFG	H12Y/L35F/H93Y	-1.193	A	P05230	Homo sapiens (Human)	Fibroblast growth factor 1
+2AFG	L35F/C74T/C108V/F123W	0.1	A	P05230	Homo sapiens (Human)	Fibroblast growth factor 1
+2CI2	L33A/F51A	5.16	I	P01053	Hordeum vulgare (Barley)	Subtilisin-chymotrypsin inhibitor-2A
+2CI2	I30A/I58V	4.08	I	P01053	Hordeum vulgare (Barley)	Subtilisin-chymotrypsin inhibitor-2A
+2CI2	K25A/E27A	-0.95	I	P01053	Hordeum vulgare (Barley)	Subtilisin-chymotrypsin inhibitor-2A
+2CI2	Q29M/M41L	0.18	I	P01053	Hordeum vulgare (Barley)	Subtilisin-chymotrypsin inhibitor-2A
+2CI2	L33V/V39A	1.93	I	P01053	Hordeum vulgare (Barley)	Subtilisin-chymotrypsin inhibitor-2A
+2CI2	L33V/F51A	3.26	I	P01053	Hordeum vulgare (Barley)	Subtilisin-chymotrypsin inhibitor-2A
+2CI2	L33A/F51L	3.25	I	P01053	Hordeum vulgare (Barley)	Subtilisin-chymotrypsin inhibitor-2A
+2CI2	L33A/V39A	2.95	I	P01053	Hordeum vulgare (Barley)	Subtilisin-chymotrypsin inhibitor-2A
+2CI2	R44A/D46A	2.46	I	P01053	Hordeum vulgare (Barley)	Subtilisin-chymotrypsin inhibitor-2A
+2CI2	V39A/F51L	2.2	I	P01053	Hordeum vulgare (Barley)	Subtilisin-chymotrypsin inhibitor-2A
+2CI2	V39A/V61A	3.78	I	P01053	Hordeum vulgare (Barley)	Subtilisin-chymotrypsin inhibitor-2A
+2CI2	T40A/E42A	0.67	I	P01053	Hordeum vulgare (Barley)	Subtilisin-chymotrypsin inhibitor-2A
+2CI2	L33A/V39A/F51L	3.34	I	P01053	Hordeum vulgare (Barley)	Subtilisin-chymotrypsin inhibitor-2A
+2CI2	S13A/E15A/E16A	1.21	I	P01053	Hordeum vulgare (Barley)	Subtilisin-chymotrypsin inhibitor-2A
+2CI2	T40D/E42A	0.24	I	P01053	Hordeum vulgare (Barley)	Subtilisin-chymotrypsin inhibitor-2A
+2CI2	L33V/V39A/F51L	2.84	I	P01053	Hordeum vulgare (Barley)	Subtilisin-chymotrypsin inhibitor-2A
+2CI2	E15A/E16A	0.37	I	P01053	Hordeum vulgare (Barley)	Subtilisin-chymotrypsin inhibitor-2A
+2CI2	L33V/F51L	1.08	I	P01053	Hordeum vulgare (Barley)	Subtilisin-chymotrypsin inhibitor-2A
+2CI2	K3A/E8A	1.17	I	P01053	Hordeum vulgare (Barley)	Subtilisin-chymotrypsin inhibitor-2A
+2CI2	P7A/A17G	1.3	I	P01053	Hordeum vulgare (Barley)	Subtilisin-chymotrypsin inhibitor-2A
+2CI2	S13G/E15A/E16A	0.81	I	P01053	Hordeum vulgare (Barley)	Subtilisin-chymotrypsin inhibitor-2A
+2HPR	A1K/N70E	-1.1	A	P08877	Bacillus subtilis (strain 168)	Phosphocarrier protein HPr
+2HPR	A1R/N70E	-1.55	A	P08877	Bacillus subtilis (strain 168)	Phosphocarrier protein HPr
+2IFB	G65D/V66H	0.82	A	P02693	Rattus norvegicus (Rat)	Fatty acid-binding protein, intestinal
+2IFB	G65A/V66W	4.17	A	P02693	Rattus norvegicus (Rat)	Fatty acid-binding protein, intestinal
+2IFB	G65D/V66F	2.47	A	P02693	Rattus norvegicus (Rat)	Fatty acid-binding protein, intestinal
+2IFB	G65A/V66R	2.16	A	P02693	Rattus norvegicus (Rat)	Fatty acid-binding protein, intestinal
+2IFB	L64T/G65A/V66G	4.75	A	P02693	Rattus norvegicus (Rat)	Fatty acid-binding protein, intestinal
+2IFB	L64T/G65V/V66P	5.3	A	P02693	Rattus norvegicus (Rat)	Fatty acid-binding protein, intestinal
+2IFB	L64G/G65A/V66F	5.65	A	P02693	Rattus norvegicus (Rat)	Fatty acid-binding protein, intestinal
+2IFB	G65A/V66F	0.57	A	P02693	Rattus norvegicus (Rat)	Fatty acid-binding protein, intestinal
+2IFB	L64S/G65A/V66N	4.67	A	P02693	Rattus norvegicus (Rat)	Fatty acid-binding protein, intestinal
+2IFB	L64R/G65A/V66C	5.53	A	P02693	Rattus norvegicus (Rat)	Fatty acid-binding protein, intestinal
+2IFB	L64K/G65V/V66D	5.08	A	P02693	Rattus norvegicus (Rat)	Fatty acid-binding protein, intestinal
+2LZM	R14A/K16A/I17A/K19A/T21A/E22A	3.0	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	R119A/Q123A	0.17	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	N144E/K147M	-0.4	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	L99F/M102L/V111I/F153L	0.65	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	N40A/S44A/E45A/D47A/K48A/D127A/E128A/V131A/N132A	-1.75	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	A98V/T152S	5.5	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	K16E/R119E/K135E/K147E	1.0	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	N53A/N55A/V57A/E128A/V131A/N132A	0.8	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	N116D/R119M	-0.6	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	R80K/R119H	0.47	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	L121A/A129L/L133A/F153L	3.5	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	T34A/K35A/S36A/P37A/E128A/V131A/N132A	0.2	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	L121I/A129W/L133M	1.4	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	L99F/M102L/V111I	1.2	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	K16E/R119E	-0.4	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	N116A/M120A	-0.21	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	A98V/V149I/T152S	4.4	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	L99F/M102L/F153L	0.22	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	K135E/K147E	1.5	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	A41V/V131A	-0.6	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	T115A/S117A	-0.95	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	S117A/N132I	-2.0	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	C54V/C97S	2.1	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	S38D/N144D	-1.03	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	M120A/Q122A	0.25	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	K60H/L13D	2.8	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	L99F/V111I/F153L	0.43	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	L99A/F153A	6.9	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	N53A/N55A/V57A	1.5	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	S38D/A82P/N144D/I3L	-2.32	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	L121A/A129M/F153L	1.1	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	L99F/M102L	0.75	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	D127A/E128A/V131A/N132A/K135A/S136A/R137A/Y139A/N140A/Q141A	0.5	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	L99A/E108V	3.1	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	K16E/K135E	0.7	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	R119E/K135E	1.1	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	D127A/E128A	-0.24	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	C54T/C97A	1.27	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	S38D/A82P/N144D/I3L/V131A/A41V/N116D	-3.57	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	D89A/R96H	3.8	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	S117A/N132M	-1.8	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	D127A/E128A/V131A/N132A/L133A	2.5	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	G28A/I29A/G30A	5.5	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	L121M/A129L/L133M/V149I/F153W	1.3	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	L99G/E108V	5.6	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	L121A/A129V/L133M/F153L	2.3	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	K16E/R154E	0.8	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	S38D/A82P/N144D/I3L/V131A/A41V	-2.87	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	K83H/A112D	1.5	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	T155A/T157I	4.31	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	H31N/D70N	4.0	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	R119E/K135E/K147E	1.6	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	T115A/R119A	0.17	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	V111I/F153L	1.09	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	D127A/E128A/V131A/N132A/K135A/S136A	0.5	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	Y24A/Y25A/T26A/I27A	5.5	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	L32A/L33A/T34A/E108V	3.0	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	A129M/F153A	4.3	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	L121A/A129M/V149I	1.4	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	E128A/V131A/N132A/K135A/S136A/R137A/Y139A/N140A/Q141A	0.5	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	E128A/V131A/N132A/K135A/S136A/R137A	0.5	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	S117I/N132M	-2.0	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	L121A/A129M	1.0	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	T34A/K35A/S36A/P37A	0.7	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	M102L/V111F	2.11	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	S117A/R119A	-1.16	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	V131A/A41V	-0.66	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	S38D/A82P/N144D	-1.59	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	L99F/F153L	-0.03	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	S117I/N132I	-1.4	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	M6I/R96H	5.08	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	D127A/E128A/V131A/N132A	-0.85	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	L121M/L133V/F153L	2.5	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	S38D/A82P/N144D/I3L/V131A	-2.57	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	E128A/V131A/N132A/L133A	2.5	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	V131A/N132A	-0.57	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	A98V/V149C/T152S	4.4	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	E45A/K48A	-0.01	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	L121I/A129L/L133M/F153W	1.3	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	E128A/V131A	-0.44	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	K16E/K135E/K147E	1.7	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	L99F/V111I	0.93	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	L121A/A129L	1.1	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	K85A/R96H	3.6	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	S90H/Q122D	2.2	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2LZM	E128A/V131A/N132A	-0.9	A	P00720	Enterobacteria phage T4 (Bacteriophage T4)	Endolysin
+2Q98	H19A/H22A/H172A	-3.26	A	P01236	Homo sapiens (Human)	Prolactin
+2Q98	H22A/H165A	-2.615	A	P01236	Homo sapiens (Human)	Prolactin
+2Q98	H19A/H172A	-2.315	A	P01236	Homo sapiens (Human)	Prolactin
+2Q98	H19A/H22A	-2.44	A	P01236	Homo sapiens (Human)	Prolactin
+2Q98	H165A/H172A	-0.65	A	P01236	Homo sapiens (Human)	Prolactin
+2Q98	H22A/H172A	-2.03	A	P01236	Homo sapiens (Human)	Prolactin
+2Q98	H22A/H165A/H172A	-2.425	A	P01236	Homo sapiens (Human)	Prolactin
+2RN2	Q80L/K117R	0.03	A	P0A7Y4	Escherichia coli (strain K12)	Ribonuclease HI
+2RN2	K91R/K95G	-1.6	A	P0A7Y4	Escherichia coli (strain K12)	Ribonuclease HI
+2RN2	A52V/V74L	-2.43	A	P0A7Y4	Escherichia coli (strain K12)	Ribonuclease HI
+2RN2	K91R/D94E/K95G	-0.745	A	P0A7Y4	Escherichia coli (strain K12)	Ribonuclease HI
+2RN2	A52I/V74A	-1.19	A	P0A7Y4	Escherichia coli (strain K12)	Ribonuclease HI
+2RN2	E119V/R41C	-1.2	A	P0A7Y4	Escherichia coli (strain K12)	Ribonuclease HI
+2RN2	Y28F/R29H/G30A/R31H	0.9	A	P0A7Y4	Escherichia coli (strain K12)	Ribonuclease HI
+2RN2	A52G/V74L	1.4	A	P0A7Y4	Escherichia coli (strain K12)	Ribonuclease HI
+2RN2	A52F/V74L	-0.03	A	P0A7Y4	Escherichia coli (strain K12)	Ribonuclease HI
+2RN2	D94R/K95G	-1.5	A	P0A7Y4	Escherichia coli (strain K12)	Ribonuclease HI
+2RN2	A52L/V74A	-0.36	A	P0A7Y4	Escherichia coli (strain K12)	Ribonuclease HI
+2RN2	A52V/V74A	0.52	A	P0A7Y4	Escherichia coli (strain K12)	Ribonuclease HI
+2RN2	A52I/V74L	-1.19	A	P0A7Y4	Escherichia coli (strain K12)	Ribonuclease HI
+2RN2	E119V/K60R	-0.63	A	P0A7Y4	Escherichia coli (strain K12)	Ribonuclease HI
+2RN2	K91R/D94E	0.5	A	P0A7Y4	Escherichia coli (strain K12)	Ribonuclease HI
+2RN2	H62P/T40A/K122R	-0.85	A	P0A7Y4	Escherichia coli (strain K12)	Ribonuclease HI
+2RN2	A52L/V74L	-1.49	A	P0A7Y4	Escherichia coli (strain K12)	Ribonuclease HI
+2RN2	A52F/V74A	1.4	A	P0A7Y4	Escherichia coli (strain K12)	Ribonuclease HI
+2TRX	T77C/V91C	-1.15	A	P0AA25	Escherichia coli (strain K12)	Thioredoxin 1
+2TRX	L78C/K90C	1.4	A	P0AA25	Escherichia coli (strain K12)	Thioredoxin 1
+2TRX	L79C/T89C	-1.15	A	P0AA25	Escherichia coli (strain K12)	Thioredoxin 1
+2TS1	I52L/L105V	1.0	A	P00952	Geobacillus stearothermophilus (Bacillus stearothermophilus)	Tyrosine--tRNA ligase
+2WSY	Y166Q/L181V	-0.05	A	P00929	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	Tryptophan synthase alpha chain
+2WSY	A18G/I203V	2.85	A	P00929	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	Tryptophan synthase alpha chain
+2WSY	A18V/I203V	1.0	A	P00929	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	Tryptophan synthase alpha chain
+2ZTA	S14A/H18A/N21R	-1.23	A	P03069	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	General control transcription factor GCN4
+2ZTA	S14A/H18E/N21A	-0.76	A	P03069	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	General control transcription factor GCN4
+2ZTA	S14R/H18E/N21R	-1.72	A	P03069	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	General control transcription factor GCN4
+2ZTA	K15A/E20Q	-0.82	A	P03069	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	General control transcription factor GCN4
+2ZTA	E11Q/K15A	0.14	A	P03069	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	General control transcription factor GCN4
+2ZTA	H18R/N21E	-0.22	A	P03069	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	General control transcription factor GCN4
+2ZTA	E11Q/E20Q/E22Q	2.37	A	P03069	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	General control transcription factor GCN4
+2ZTA	S14R/H18A/N21A	-1.07	A	P03069	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	General control transcription factor GCN4
+2ZTA	E22Q/K27A	2.8	A	P03069	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	General control transcription factor GCN4
+2ZTA	S14A/H18A/N21A	-1.07	A	P03069	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	General control transcription factor GCN4
+2ZTA	S14R/H18A/N21R	-1.15	A	P03069	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	General control transcription factor GCN4
+2ZTA	S14R/H18E/N21A	-1.64	A	P03069	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	General control transcription factor GCN4
+2ZTA	S14A/H18E/N21R	-1.15	A	P03069	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	General control transcription factor GCN4
+2ZTA	K8A/E11Q	0.57	A	P03069	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	General control transcription factor GCN4
+2ZTA	E20Q/E22Q	1.72	A	P03069	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	General control transcription factor GCN4
+3HHR	S71A/E74A	2.22	A	P01241	Homo sapiens (Human)	Somatotropin
+3HHR	S71V/E74L	5.91	A	P01241	Homo sapiens (Human)	Somatotropin
+3HHR	S71Q/E74S	2.26	A	P01241	Homo sapiens (Human)	Somatotropin
+3MBP	G32D/I33P	4.0	A	P0AEX9	Escherichia coli (strain K12)	Maltose/maltodextrin-binding periplasmic protein
+3PGK	W308F/W333F	7.525	A	P00560	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Phosphoglycerate kinase
+3PGK	Y48W/W333Y	-0.65	A	P00560	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Phosphoglycerate kinase
+3PGK	Y48W/W308Y	0.69	A	P00560	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	Phosphoglycerate kinase
+451C	F7A/V13M/F34Y/E43Y	-3.76	A	P00099	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JC	Cytochrome c-551
+451C	Q37R/E43Y	-0.5	A	P00099	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JC	Cytochrome c-551
+451C	F34Y/Q37R/E43Y	-2.0	A	P00099	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JC	Cytochrome c-551
+451C	F7A/V13M	1.0	A	P00099	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JC	Cytochrome c-551
+451C	F34Y/E43Y/V78I	-2.95	A	P00099	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JC	Cytochrome c-551
+451C	F34Y/Q37R	-1.5	A	P00099	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JC	Cytochrome c-551
+451C	F7A/V13M/V78I	-2.29	A	P00099	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JC	Cytochrome c-551
+451C	F7A/V13M/F34Y/E43Y/V78I	-5.32	A	P00099	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JC	Cytochrome c-551
+451C	F34Y/E43Y	1.21	A	P00099	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JC	Cytochrome c-551
+4BLM	S93C/S230C	0.9	A	P00808	Bacillus licheniformis	Beta-lactamase
+4LYZ	T40S/I55V/S91T	0.3	A	P00698	Gallus gallus (Chicken)	Lysozyme C
+4LYZ	T40S/S91A	0.87	A	P00698	Gallus gallus (Chicken)	Lysozyme C
+4LYZ	I55V/S91A	1.25	A	P00698	Gallus gallus (Chicken)	Lysozyme C
+4LYZ	T40S/S91V	0.53	A	P00698	Gallus gallus (Chicken)	Lysozyme C
+4LYZ	T40S/I55V/S91A	1.67	A	P00698	Gallus gallus (Chicken)	Lysozyme C
+4LYZ	I55V/S91V	1.25	A	P00698	Gallus gallus (Chicken)	Lysozyme C
+4LYZ	Q121P/A122G	2.8	A	P00698	Gallus gallus (Chicken)	Lysozyme C
+4LYZ	I55V/S91T	-0.0	A	P00698	Gallus gallus (Chicken)	Lysozyme C
+4LYZ	Q121G/A122P	1.7	A	P00698	Gallus gallus (Chicken)	Lysozyme C
+4LYZ	T40S/I55V	1.33	A	P00698	Gallus gallus (Chicken)	Lysozyme C
+4LYZ	G102A/G104A	-2.0	A	P00698	Gallus gallus (Chicken)	Lysozyme C
+4LYZ	I55L/S91T	-1.25	A	P00698	Gallus gallus (Chicken)	Lysozyme C
+4LYZ	T40S/S91T	-0.61	A	P00698	Gallus gallus (Chicken)	Lysozyme C
+4LYZ	P70G/G71P	1.0	A	P00698	Gallus gallus (Chicken)	Lysozyme C
+4LYZ	M12L/L56F	-1.12	A	P00698	Gallus gallus (Chicken)	Lysozyme C
+4LYZ	I55A/S91T	2.77	A	P00698	Gallus gallus (Chicken)	Lysozyme C
+4LYZ	G117P/T118G	2.6	A	P00698	Gallus gallus (Chicken)	Lysozyme C
+4LYZ	D101G/G102P	-0.9	A	P00698	Gallus gallus (Chicken)	Lysozyme C
+4LYZ	M12F/L56F	-1.49	A	P00698	Gallus gallus (Chicken)	Lysozyme C
+5AZU	C3A/C26A	6.8	A	P00282	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JC	Azurin
