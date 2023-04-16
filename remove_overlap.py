@@ -44,6 +44,8 @@ def RemoveOverlap(dataset1, dataset2, pident=25):
     overlap = data[data['pident'] > int(pident)].loc[:, ['id1', 'id2']]
     # select names of the proteins in dataset1
     overlaping_proteins = overlap['id1'].unique()
+    # save the list of overlaping proteins
+    overlap.to_csv('overlap_proteins.tsv', sep='\t', index=False, header=None)
     # if no overlap - print log and do nothing
     if len(overlaping_proteins) == 0:
         print(f'No overlap at {pident}% cutoff.')
