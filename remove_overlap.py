@@ -56,7 +56,7 @@ def RemoveOverlap(dataset1, dataset2, pident=25):
         else:
             # save dataset1 without overlaps with dataset2
             file_name = '__'.join([dataset1, dataset2, str(pident)])
-            dataset1_data_no_overlap.drop(columns='id').to_csv(os.path.join(path, file_name+'.tsv'), sep='\t', index=False)
+            dataset1_data_no_overlap.drop(columns='id').to_csv(file_name+'.tsv', sep='\t', index=False)
 
             ### PRINT LOG ###
 
