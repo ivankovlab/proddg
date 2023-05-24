@@ -4,9 +4,8 @@ import os, sys
 import pandas as pd
 import numpy as np
 
-path = '~/Documents/WRK/datasets_2023.03.06/PROCESSED' # set the path here
-blast_file = os.path.join(path, 'blast.tsv')
-blast = pd.read_table(blast_file)
+path = 'https://raw.githubusercontent.com/ivankovlab/proddg/main/' # set the path to the datasets
+blast = pd.read_table('blast.tsv')
 
 def RemoveOverlap(dataset1, dataset2, pident=25):
     
@@ -30,10 +29,7 @@ def RemoveOverlap(dataset1, dataset2, pident=25):
     dataset1_data['id'] = dataset1_data.apply(lambda x: Id([x[i] for i in id_columns]), axis=1)
 
     ### LOAD OVERLAPS DATA ###
-    
-    # load blast 
-    blast_file = os.path.join(path, 'blast.tsv')
-    blast = pd.read_table(blast_file)
+
     # select data on overlaps between dataset1 and dataset2
     data = blast[(blast['dataset2'] == dataset2) & (blast['dataset1'] == dataset1)]
     data = data.sort_values("pident")[::-1]
