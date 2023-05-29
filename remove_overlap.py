@@ -25,8 +25,8 @@ def RemoveOverlap(dataset1, dataset2, pident=25):
     dataset1_file = os.path.join(path, dataset1 + '.tsv')
     dataset1_data = pd.read_table(dataset1_file)
     # create id column
-    id_columns = [i for i in dataset1_data.columns if i in ['pdb', 'chain', 'uniprot', 'WT_name']]
-    dataset1_data['id'] = dataset1_data.apply(lambda x: Id([x[i] for i in id_columns]), axis=1)
+    id_columns = ['pdb', 'chain', 'uniprot', 'WT_name']
+    dataset1_data['id'] = dataset1_data.apply(lambda x: Id([x[i] for i in id_columns if i in dataset1_data.columns]), axis=1)
 
     ### LOAD OVERLAPS DATA ###
 
