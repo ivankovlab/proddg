@@ -27,5 +27,7 @@ Check detailed description of columns and how data was derived: [Datasets](https
 
 If you used ProDDG in your work, please, cite us:
 
+```
 Marina A. Pak, Evgeny V. Kniazev, Igor D. Abramkin, Dmitry N. Ivankov. (2023). ProDDG - database of ∆∆G datasets and predictors. Available at: https://ivankovlab.ru/proddg.
+```
 
